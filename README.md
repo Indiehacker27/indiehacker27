@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=danielschuster-muc&label=Profile%20Views&style=for-the-badge)
 ![Followers Count](https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge)
  -->
-# Hey there 👋, I am Sirish , this is my bounty account Main account is sirish123!
+# Hey there 👋, I am Sirish, This is my bounty account!
 
 
 
