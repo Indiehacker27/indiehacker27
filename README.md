@@ -2,7 +2,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=danielschuster-muc&label=Profile%20Views&style=for-the-badge)
 ![Followers Count](https://img.shields.io/github/followers/danielschuster-muc?style=for-the-badge)
  -->
-# Hey there 👋, I am Sirish , this is my bounty account!
+# Hey there 👋, I am Sirish , this is my bounty account Main account is sirish123!
+
 
 [![An image of @sirish123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sirish123)](https://holopin.io/@sirish123)
 
@@ -23,12 +24,12 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="materialui" width="48" height="48"/>](https://www.nginx.com/)
 
 ## 🔗 Links
-[![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirish123)
+[![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indiehacker27)
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirish-sekhar-6896b51a7/)
 
 <details>
  <summary><h2>📈 Statistics</h2></summary>
-  <img alt="Readme Stats" src="https://github-readme-stats.vercel.app/api?username=sirish123&show_icons=true&theme=algolia"/>
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sirish123&show_icons=true&theme=algolia"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirish123&show_icons=true&theme=algolia&layout=compact"/>
+  <img alt="Readme Stats" src="https://github-readme-stats.vercel.app/api?username=indiehacker27&show_icons=true&theme=algolia"/>
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=indiehacker27&show_icons=true&theme=algolia"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiehacker27&show_icons=true&theme=algolia&layout=compact"/>
 </details>
