@@ -5,7 +5,6 @@
 # Hey there 👋, I am Sirish , this is my bounty account Main account is sirish123!
 
 
-[![An image of @sirish123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sirish123)](https://holopin.io/@sirish123)
 
 ## ⌨️ Skills and Technologies 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>](https://www.javascript.com/)
@@ -22,6 +21,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="materialui" width="48" height="48"/>](https://nodejs.org/en)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="materialui" width="48" height="48"/>](https://www.docker.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="materialui" width="48" height="48"/>](https://www.nginx.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="materialui" width="48" height="48"/>]([https://www.rust.com/](https://www.rust-lang.org/))
+
 
 ## 🔗 Links
 [![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indiehacker27)
